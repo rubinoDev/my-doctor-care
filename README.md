@@ -17,7 +17,7 @@ A responsive web page with scroll reveal, back to top button and dynamic navigat
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172874428-4256946b-2e5f-439f-9ff0-704460c764a7.png" title="VS Code"></code>
 
 ## Live demo :
-https://ignite-lab-react-eight-cyan.vercel.app/
+https://rubinodev.github.io/my-doctorcare/
 
 
 
